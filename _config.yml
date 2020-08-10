@@ -14,7 +14,7 @@ description              : &A PhD candidate in Iowa State University"
 url                      : https://zhczhang.github.io/zhczhang1995.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhczhang/zhczhang1995.github.io"
-teaser                   :  "ZichenPhoto.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "ZichenPhoto.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
