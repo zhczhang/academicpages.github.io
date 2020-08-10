@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zichen Zgang / Fluid Dynamics and Surface Science"
+title                    : "Fluid Dynamics and Surface Science"
 title_separator          : "-"
 name                     : "Zichen Zhang"
 description              : "A PhD candidate in Iowa State University"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Zichen Zhang"
+  avatar           : "ZichenPhoto.png"
+  bio              : "PhD candidate in Department of Aerospace Engineering at Iowa State University"
   location         : "Iowa State University"
-  employer         :
+  employer         : "Dr. Hui Hu"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xMaK4k8AAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "zhczhang@iastate.edu"
   researchgate     :  "https://www.researchgate.net/profile/Zichen_Zhang9"
   uri              :
   bitbucket        :
