@@ -19,13 +19,13 @@ Fluids are essential to life. I like exploring the physics behind the fluid flow
 # Research Interests
 
 ## Fluid Dynamics
-   Multiphase Flow
-   Droplet Impact
-   Surface Wave
+###### Multiphase Flow
+###### Droplet Impact
+###### Surface Wave
 
 ## Surfaece Science
-   Surface Wettability/Icephobicicty
-   Surface Durability
-   Fourier Transform Infrared Spectroscopy (FTIR)
-   Scanning Electron Microscope (SEM)
-   Atomic Force Microscope (AFM)
+###### Surface Wettability/Icephobicicty
+###### Surface Durability
+###### Fourier Transform Infrared Spectroscopy (FTIR)
+###### Scanning Electron Microscope (SEM)
+###### Atomic Force Microscope (AFM)
