@@ -27,7 +27,11 @@ Work experience
   * Project: Numerical Simulations of Acoustic Multipole Sources and Acoustic Scattering from a Cylinder Using Different Lattice Boltzmann Methods
   * Supervisor: Dr. Congshan Zhuo and Dr. Chengwen Zhong
   
-*
+* 2017-2020: Research Assistant
+  * Iowa State University
+  * Project: Characterization of gas turbine fuel sprays using ISU high-pressure rig (HiPR) facility
+  * Supervisor: Dr. Hui Hu
+  * Sponsor: Collins Aerospace
 
 * 2017-Present: Research Assistant
   * Iowa State University
