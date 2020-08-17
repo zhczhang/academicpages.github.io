@@ -11,17 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Northwestern Polytechnical University, 2017
+* M.S. in Iowa State University, 2020
+* Ph.D in Iowa State University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2015: Research Assistant
+  * Polytechnic University of Madrid
+  * Project: Numerical Simulations of A Micro Vortex Generator Using Lattice Boltzmann Method
+  * Supervisor: Dr. Gustavo Alonso
 
+* Spring 2017: Research Assistant
+  * Northwestern Polytechnical University
+  * Project: Simulations of Acoustic Multipole Sources and Acoustic Scattering from a Cylinder Using Different Lattice Boltzmann Methods
+  * Supervisor: Dr. Congshan Zhuo and Dr. Chengwen Zhong
+  
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
