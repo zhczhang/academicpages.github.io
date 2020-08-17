@@ -24,13 +24,20 @@ Work experience
 
 * Spring 2017: Research Assistant
   * Northwestern Polytechnical University
-  * Project: Simulations of Acoustic Multipole Sources and Acoustic Scattering from a Cylinder Using Different Lattice Boltzmann Methods
+  * Project: Numerical Simulations of Acoustic Multipole Sources and Acoustic Scattering from a Cylinder Using Different Lattice Boltzmann Methods
   * Supervisor: Dr. Congshan Zhuo and Dr. Chengwen Zhong
   
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*
+
+* 2017-Present: Research Assistant
+  * Iowa State University
+  * PhD in progress
+  * Supervisor: Dr. Hui Hu
+  
+* 2017-Present: Teaching Assistant
+  * Iowa State University
+  * Duties Included: teaching laboratory sections and grading
+  * courses: Aerospace Propulsion System; Aerodynamics and Propulsion Lab; Experimental Fluid Mechanics and Heat Transfer (Graduate)
   
 Skills
 ======
