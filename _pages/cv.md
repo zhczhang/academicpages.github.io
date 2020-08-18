@@ -67,7 +67,7 @@ Teaching
 * 2017-Present: Teaching Assistant
   * Iowa State University
   * Duties Included: teaching laboratory sections and grading
-  * courses: Aerospace Propulsion System; Aerodynamics and Propulsion Lab; Experimental Fluid Mechanics and Heat Transfer (Graduate)
+  * Courses: Aerospace Propulsion System; Aerodynamics and Propulsion Lab; Experimental Fluid Mechanics and Heat Transfer (Graduate)
   
 Service and leadership
 ======
