@@ -15,7 +15,7 @@ Education
 * M.S. in Iowa State University, 2020
 * Ph.D in Iowa State University, 2021 (expected)
 
-Work experience
+Research experience
 ======
 * Fall 2015: Research Assistant
   * Polytechnic University of Madrid
@@ -38,19 +38,17 @@ Work experience
   * PhD in progress
   * Supervisor: Dr. Hui Hu
   
-* 2017-Present: Teaching Assistant
-  * Iowa State University
-  * Duties Included: teaching laboratory sections and grading
-  * courses: Aerospace Propulsion System; Aerodynamics and Propulsion Lab; Experimental Fluid Mechanics and Heat Transfer (Graduate)
-  
 Skills
 ======
-* PIV and Stereo PIV
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experimental Skills
+  * PIV and Stereo PIV
+  * DIP/DIC (A full-field displacement measurement technique)
+  * high-speed imaging and infrared imaging 
+  * shadow imaging, hotwire, schlieren, PSP and MTT
+* Programming Skills
+  * C language
+  * Fortran
+  * Matlab
 
 Publications
 ======
@@ -66,9 +64,10 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2017-Present: Teaching Assistant
+  * Iowa State University
+  * Duties Included: teaching laboratory sections and grading
+  * courses: Aerospace Propulsion System; Aerodynamics and Propulsion Lab; Experimental Fluid Mechanics and Heat Transfer (Graduate)
   
 Service and leadership
 ======
