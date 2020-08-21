@@ -1,7 +1,7 @@
 ---
 title: "An Experimental Study on the Durability of a Hydro-/Ice-phobic Surface Coating for Aircraft Icing Mitigation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2018-06-18-AIAA Conference-An Experimental Study on the Durability of a Hydro-/Ice-phobic Surface Coating for Aircraft Icing Mitigation
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-06
 venue: 'AIAA conference'
