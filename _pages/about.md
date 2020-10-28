@@ -12,6 +12,6 @@ Fluids are essential to life. I like exploring the physics behind the fluid flow
 
 Education
 ======
-* B.S. in Northwestern Polytechnical University, 2013-2017
+* B.Eng. in Northwestern Polytechnical University, 2013-2017
 * M.S. in Iowa State University, 2017-2020
 * Ph.D in Iowa State University, 2017-Present
